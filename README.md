@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Matheus Melo 👋
 
 - 💻 Desenvolvedor
+- 👨🏼‍🎓 Engenharia de software
 ##
 <div align="center">
   <a href="https://beacons.ai/melomatheus">
